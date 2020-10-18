@@ -1,3 +1,25 @@
+# Requirements
+### Ruby
+
+```
+sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
+curl -sSL https://get.rvm.io | bash -s stable
+source ~/.rvm/scripts/rvm
+rvm install 2.7.1
+rvm use 2.7.1 --default
+ruby -v
+```
+
+### Install Ruby on Rails
+
+```
+gem install bundler
+gem install rails
+gem install jekyll
+```
+
+----
 # Business Jekyll Theme
 
 Business Jekyll Theme is a theme that is designed to be used for small and medium business. It is designed by a team from [Technext](https://github.com/technext/). The theme is then ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obainted from Technext's [repository](https://github.com/technext/office)
