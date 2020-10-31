@@ -15,6 +15,10 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 * Global
 * ==========================================================================
 */
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus  {
+  color: #fff;
+  background-color: #DE6137;
+}
 
 .btn-primary{
   margin-left: 20px;
@@ -110,7 +114,7 @@ h3.col-xs-12{
     text-align: center;
 }
 .block-author{
-    color: #D7002E;
+    color: #DE6137;
 }
 
 .btn-info{
@@ -152,7 +156,7 @@ body {
 }
 
 a {
-    color: #55CBD2;
+    color: #FA8A3F;
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -226,7 +230,7 @@ address {
 * ==========================================================================
 */
 .active{
-  background:#74B9B9 !important;
+  background:#DE6137 !important;
   color: white;
 }
 .navbar {
@@ -259,7 +263,7 @@ address {
   padding-top: 0px;
 }
 .side-left{
-  background:#528C7C;
+  background:#DE6137;
   box-shadow: 3px grey;
   color: white;
   padding: 30px;
@@ -440,7 +444,7 @@ p.blog-text{
   margin-top: 50px;
 }
 .services-section .services-icon {
-  color: #1bbd9b;
+  color: #DE6137;
   margin-bottom: 30px;
 }
 .services-section .services-title {
@@ -464,7 +468,7 @@ p.blog-text{
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
-    background: #1BBD9B;
+    background: #FA8A3F;
     border-radius: 3px; 
     transition:.4s;  
 }
@@ -525,7 +529,7 @@ footer h3 {
 }
 
 #social-icons .btn-group {
-    color: #55CBD2;
+    color: #DE6137;
     margin-right: 15px;
 }
 #social-icons .btn-group:hover {
