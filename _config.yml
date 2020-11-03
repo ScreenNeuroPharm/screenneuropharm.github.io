@@ -16,7 +16,7 @@
 title: ScreenNeuroPharm
 email: info@screenneuropharm.com
 description: > # this means to ignore newlines until "baseurl:"
- ScreenNeuroPharm un'innovativa startup con l'obiettivo di progettare, realizzare, validare e quindi commercializzare dispositivi per l’ingegnerizzazione di colture cellulari in vitro.
+  "Screen NeuroPharm offers devices to engineer in vitro cell culture for drug screening.""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://screenneuropharm.com" # the base hostname & protocol for your site, e.g. http://example.com
 
