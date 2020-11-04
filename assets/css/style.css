@@ -234,6 +234,7 @@ address {
 .active{
   background:#DE6137 !important;
   color: white;
+  border-radius: 7%;
 }
 .navbar {
   font-weight: bold;
@@ -288,7 +289,7 @@ address {
 #banners{
     
     margin-top: 30px;
-    margin-bottom: 100px;
+    /*margin-bottom: 100px;*/
 }
 
 @media (max-width: 768px){ 
