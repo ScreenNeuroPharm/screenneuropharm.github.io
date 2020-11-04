@@ -155,6 +155,7 @@ body {
     font-size: 15px;
     line-height: 24px;
     background:#F8FAFF;
+
 }
 
 a {
@@ -510,11 +511,15 @@ p.blog-text{
 
 
 /* ----- Footer ----- */
+
+
 .footer-widget{
     color:white;
     margin-top: 55px;
     position: absolute;
 }
+
+
 
 
 footer .widget h4 {
@@ -532,13 +537,17 @@ footer .widget p {
 footer .widget i {
     padding-right: 7px;
 }
+
 footer{
-   margin-top:40px;
-   left: 0;
-   right: 0;
-   background: black;
-   bottom: 0px;
+  margin-top:40px;
+  left: 0;
+  right: 0;
+  background: black;
+  bottom: 0px;
+
 }
+
+
 
 footer h3 {
     color: #dadada;
