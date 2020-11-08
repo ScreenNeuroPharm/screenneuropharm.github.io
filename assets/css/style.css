@@ -413,6 +413,13 @@ p.blog-text{
   }
 }
 
+@media (max-width: 500px){ 
+  .office-logo{
+    height: 50px;
+    width: 50px;
+  }
+}
+
 /*
 * ==========================================================================
 * Feedback Section
