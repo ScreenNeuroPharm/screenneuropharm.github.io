@@ -500,6 +500,7 @@ p.blog-text{
     margin-top: 0;
   }
 }
+/*
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
@@ -507,6 +508,7 @@ p.blog-text{
     border-radius: 3px; 
     transition:.4s;  
 }
+*/
 .services-group{
   padding: 10px;
   background:#061F20;
